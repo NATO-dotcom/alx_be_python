@@ -1,4 +1,4 @@
-# ALX Backend Python Projects
+# ALX Backend Python Projects and assignments
 
 This repository contains a collection of backend development projects and assignments completed as part of the ALX Software Engineering curriculum. The focus is on Python programming fundamentals, backend logic, and practical application of key concepts.
 
