@@ -48,3 +48,4 @@ class Library:
         else:
             for book in available_books:
                 print(f"{book.title} by {book.author}")
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
